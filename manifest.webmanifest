@@ -1,0 +1,19 @@
+{
+  "name": "Pinpoint Diary",
+  "short_name": "Pinpoint",
+  "description": "Save photo moments with their place and weather. Private, encrypted and works offline.",
+  "id": "./",
+  "start_url": "./index.html#/timeline",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f7f6",
+  "theme_color": "#0f766e",
+  "lang": "en-GB",
+  "categories": ["lifestyle", "travel", "photo"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
